@@ -7,7 +7,8 @@ The goal of this repository is simple: to guide software engineers like you and 
 We bridge the gap between heavy academic theory and practical software development. Step by step, we will cover everything from linear algebra and probability to quantum mechanics. Every math and physics concept will be translated directly into runnable Python and Qiskit code.
 
 ```
-Prerequisite: This project is not a tutorial on basic Python. Prior programming experience and familiarity with standard software engineering concepts is required.
+Prerequisite: This project is not a tutorial on basic Python.
+Prior programming experience and familiarity with standard software engineering concepts is required.
 ```
 
 ### Core References
